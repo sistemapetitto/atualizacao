@@ -1,0 +1,55 @@
+GtkEntry
+{
+	color: Black;
+}
+#colunas
+{
+
+	color: red;
+}
+#menu
+{
+        border-radius: 10px;
+        background: grey;
+}
+#barra
+{
+        background: Grey;
+        border: solid 1px Gainsboro;
+}
+#borda
+{
+        border: solid 1px Gainsboro;
+}
+#caixa
+{
+        border-radius: 10px;
+        background: Lightgrey;
+}
+
+#acao_atual
+{
+        color: green;
+}
+#infos
+{
+        color: white;
+}
+#frame
+{
+	border: solid 1px Gainsboro;
+
+}
+#frame2
+{
+	background: White;
+
+}
+#janela_login
+{
+	border: solid 1px black;
+}
+#nome_operador
+{
+	color: white;
+}
